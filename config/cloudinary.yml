@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dlwsnwnrk
+  api_key: '132485379611438'
+  api_secret: sDqufU3ypjGD7e2lCrAhBmLESCc
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dlwsnwnrk
+  api_key: '132485379611438'
+  api_secret: sDqufU3ypjGD7e2lCrAhBmLESCc
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dlwsnwnrk
+  api_key: '132485379611438'
+  api_secret: sDqufU3ypjGD7e2lCrAhBmLESCc
+  enhance_image_tag: true
+  static_image_support: false
