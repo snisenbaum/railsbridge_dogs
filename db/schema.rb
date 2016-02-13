@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160213203848) do
+ActiveRecord::Schema.define(version: 20160213213208) do
 
   create_table "dogs", force: :cascade do |t|
     t.string   "name"
@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 20160213203848) do
     t.integer  "age"
     t.string   "color"
     t.string   "breed"
+    t.string   "picture"
   end
 
 end
